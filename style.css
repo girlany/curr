@@ -1,0 +1,53 @@
+
+body{
+background-color: rgba(14, 93, 63, 0.455);
+
+}
+
+h1{
+  text-align:center;
+}
+h2{
+  padding-top: 1%;
+  color:aliceblue;
+  text-align:center;
+  background-color: rgb(14, 14, 99);
+  width: 950px;
+  height: 70px;
+}
+
+.items{
+  margin-left: 20px;
+}
+
+.fundo{
+  background-color:aliceblue;
+  width: 80%;
+  margin-left: 10%;
+  
+}
+
+.cv{
+ margin-top: 10%;
+ padding: 5%;
+}
+
+.perfil{
+  margin-top: 10%;
+  margin-left: 30%;
+  margin-right: 10%;
+  
+}
+
+.logo{
+  margin-top: 10%;
+  margin-left: 60%;
+  width: 90%;
+}
+
+
+.logo2{
+  margin-top: 8%;
+  margin-left: 30%;
+  width: 50%;
+}
