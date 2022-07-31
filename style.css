@@ -6,14 +6,18 @@ background-color: rgba(14, 93, 63, 0.455);
 
 h1{
   text-align:center;
+  background-image: url(fundo.jpg);
+  color: aliceblue;
+  padding-top: 2%;
+  height: 77px;
+
 }
 h2{
-  padding-top: 1%;
+  padding-top: 3%;
   color:aliceblue;
   text-align:center;
-  background-color: rgb(14, 14, 99);
-  width: 950px;
-  height: 70px;
+  background-color: rgba(14, 14, 99, 0.603);
+  
 }
 
 .items{
@@ -35,19 +39,19 @@ h2{
 .perfil{
   margin-top: 10%;
   margin-left: 30%;
-  margin-right: 10%;
+  margin-right: 100%;
   
 }
 
 .logo{
   margin-top: 10%;
-  margin-left: 60%;
+  margin-left: 85%;
   width: 90%;
 }
 
 
 .logo2{
   margin-top: 8%;
-  margin-left: 30%;
+  margin-left: 40%;
   width: 50%;
 }
